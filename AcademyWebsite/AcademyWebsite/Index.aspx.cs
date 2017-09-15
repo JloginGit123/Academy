@@ -32,7 +32,7 @@ namespace AcademyWebsite
 
             System.Console.WriteLine("Commit for BUG1179");//test123
             System.Console.WriteLine("Commitagain123 for UST14");//test123
-            System.Console.WriteLine("Commitagain1234 for UST14");//test123
+            System.Console.WriteLine("Commitagain1234 for UST143");//test123
         }
     }
 }
