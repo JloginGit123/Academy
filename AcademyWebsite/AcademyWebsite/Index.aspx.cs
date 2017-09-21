@@ -34,6 +34,7 @@ namespace AcademyWebsite
             System.Console.WriteLine("Commitagain123 for UST14");//test123
             System.Console.WriteLine("Commitagain1234 for UST143");//test123
             System.Console.WriteLine("Commit on 20-Sep for UST29");//test123
+            System.Console.WriteLine("Implemented US31");//test123
         }
     }
 }
